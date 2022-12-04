@@ -19,14 +19,14 @@ span{
 }
 
 .oc{
-width: 20%;
+width: 10%;
 border: 2px solid gray;
 border-radius: 20px;
 background-image: url('./pngtree-color-abstract-gradient-blurred-halo-background-image_120001.jpg');
 background-position: center;
 color: white;
-
-
+background-repeat: no-repeat;
+background-size: cover;
 }
 
 
